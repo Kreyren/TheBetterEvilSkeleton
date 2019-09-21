@@ -1,6 +1,8 @@
 # TheBetterEvilSkeleton
 Improved fork of deprecated TheEvilSkeleton
 
+![](/thebetterevilskeleton.png)
+
 ### Difference compared to original repository
 - Is canadianishmurican
 - Is real girl (and super cute)
