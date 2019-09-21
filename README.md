@@ -7,3 +7,4 @@ Improved fork of deprecated TheEvilSkeleton
 - Has perfect legs
 - Homophobia was patched
 - Is less dummer, help-wanted
+- Is not traitor
