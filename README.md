@@ -8,5 +8,5 @@ Improved fork of deprecated TheEvilSkeleton
 - Is real girl (and super cute)
 - Has perfect legs
 - Homophobia was patched
-- Is less dummer, help-wanted
+- Is less dumb, help-wanted
 - Is not traitor
